@@ -361,8 +361,8 @@ last change: 20/03/2017
 		top: 0;
 		left: 50%;
 		margin-left: -4px;
-		border-top: 2px solid #ffffff;
-		border-left: 2px solid #ffffff;
+		border-top: 2px solid #000;
+		border-left: 2px solid #000;
 
 		-webkit-transform: rotate(45deg);
 				transform: rotate(45deg);
