@@ -350,7 +350,7 @@ last change: 20/03/2017
 		bottom: 0;
 		left: 50%;
 		margin-left: -1px;
-		background: #ffffff;
+		background: #000;
 	}
 
 	.back2top::before {
